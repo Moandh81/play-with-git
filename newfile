@@ -1,1 +1,13 @@
-Hello
+Hell
+o
+
+
+
+helps you focus a goal to reach. Since the goal the pair is committing on has been defined from the beginning, it’s simpler for the pair to realize when the goal has been reached and the job is finished. A well defined commit comment embodies a little definition-of-done.
+
+
+
+
+Without preemptive comments, I often used to go on coding, always asking myself: “Should I commit now? Have I reached a stable state which I could consider a good commit?“.I found that I can define micro-goals through preemptive comments, and a macro-goal through the feature branch name (which is also pre-emptive by design).
+
+
